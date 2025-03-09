@@ -76,6 +76,12 @@ Esse processo permitirá estruturar um ambiente **data-driven**, facilitando a a
 ### Passo 5: Painel Macro-Micro
 Desenvolver um painel que forneça visão macro e micro dos dados analisados.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5a75db3c-be26-4c66-847d-c975c8d07b82" alt="Descrição da imagem" width="60%">
+</p>
+
+
+
 ### Passo 6: Inicialização da Solução
 
 #### Determinar a Saída:
