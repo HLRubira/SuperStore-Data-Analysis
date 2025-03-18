@@ -68,6 +68,8 @@ A Análise de Cohort permite identificar padrões de comportamento ao longo do t
 
 ###  Passo 5: Painel Macro-Micro
 - Painel interativo contendo a tabela de retenção por cohort.
+  
+![Análise de Cohort](https://github.com/user-attachments/assets/1135b035-0b32-4aa7-94d2-171a218b0579)
 
 ## 🚀 Implementação Técnica
 ### Passo 6: Inicialização da Solução
