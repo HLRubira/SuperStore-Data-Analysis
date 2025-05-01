@@ -120,8 +120,77 @@ Esses segmentos ajudam a direcionar campanhas com maior precisão, aumentando a 
 | Novos promissores     | Nutrir com boas experiências e acompanhamento personalizado                     |
 | Clientes perdidos     | Avaliar custo-benefício de tentar reativação ou deixar sair naturalmente         |
 
+
+---
+# Desenvolvimento da Solução
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ea6fd03b-801e-4c1b-9d55-e99b8fbeac01" alt="Segmentação RFM" />
+</p>
+
+A análise de segmentação **RFM** — que considera a **Recência**, **Frequência** e **Valor Monetário** de cada cliente — nos ajuda a entender melhor o comportamento da base de clientes e a direcionar estratégias personalizadas. A seguir, apresento os principais destaques e interpretações com base nos dados obtidos:
+
+---
+
+### Fieis Potenciais (`38,5%`)
+
+Esse é o maior grupo da base. São clientes com bom histórico de compra e grande chance de se tornarem fiéis.  
+**Oportunidade de crescimento**: invista em ofertas personalizadas, nutrição com conteúdo e incentivo à recompra.
+
+---
+
+### Fieis (`28,5%`)
+
+Clientes já engajados e com relacionamento estável com a empresa.  
+**Manter engajamento** com programas de fidelidade, reconhecimento e relacionamento contínuo.
+
+---
+
+### Campeões (`3,5%`)
+
+Clientes mais valiosos: compram com frequência, recentemente e em alto volume.  
+**Alta prioridade**: atendimento VIP, benefícios exclusivos e contato direto.
+
+---
+
+### Risco + Perdidos (`8,6% + 10,5% = 19,1%`)
+
+Clientes que demonstram forte tendência de abandono ou já foram perdidos.  
+**Atenção imediata**: estratégias de retenção, pesquisas de satisfação e campanhas de reativação.
+
+---
+
+### Novos Clientes (`2,4%`)
+
+Estão começando o relacionamento com a empresa.  
+**Boas-vindas e onboarding eficaz** são fundamentais para gerar confiança e engajamento inicial.
+
+---
+
+### Precisam de Atenção, Hibernando, Quase Dormentes e Promissores (`~8%`)
+
+Grupos menores em fases intermediárias.  
+**Ações segmentadas** como campanhas de reengajamento, ofertas específicas e estímulo à atividade.
+
+---
+
+### Não Perder (`0,3%`)
+
+Clientes valiosos prestes a sair.  
+**Prioridade máxima**: intervenções personalizadas e rápidas para evitar a perda.
+
+---
+
 ## Conclusão
 
-A aplicação da análise RFM permitiu agrupar os clientes com base em seu comportamento de compra, possibilitando ações mais eficazes e segmentadas. Essa estratégia ajuda a aumentar a **retenção**, melhora o **relacionamento com o cliente** e contribui para o **crescimento sustentável da receita**.
+A segmentação **RFM** revela que a empresa possui uma base sólida de clientes fiéis e com alto potencial de crescimento. No entanto, há áreas críticas que exigem atenção imediata — principalmente clientes em risco ou já perdidos.
 
-Com os insights obtidos, a SuperStore poderá direcionar seus recursos de marketing e vendas de forma mais inteligente, maximizando o retorno sobre investimento (ROI) e promovendo maior fidelização dos seus consumidores.
+Com **estratégias bem direcionadas para cada grupo**, é possível:
+- Aumentar a fidelização;
+- Melhorar o valor do ciclo de vida dos clientes;
+- E reduzir perdas de receita.
+
+---
+
+
+
