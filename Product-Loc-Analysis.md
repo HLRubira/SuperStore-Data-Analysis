@@ -21,7 +21,7 @@ O modelo estrela organiza os dados em uma **tabela de fatos** central conectada 
 - Lucro por segmento de cliente
 - Volume de produtos vendidos por categoria
 
-## 📐 Modelagem de Dados (Explicações Técnicas)
+## Modelagem de Dados (Explicações Técnicas)
 
 ### 1. LOCATION
 
@@ -98,6 +98,9 @@ O modelo estrela organiza os dados em uma **tabela de fatos** central conectada 
 - Tecnologia: `$266.087,18` (36%)
 - Escritório: `$213.287,27` (29%)
 
+![image](https://github.com/user-attachments/assets/1da25668-0f12-4970-8f58-3c15f36eb07c)
+
+
 **Insights:**
 
 - "Móveis" lidera com leve vantagem.
@@ -113,6 +116,9 @@ O modelo estrela organiza os dados em uma **tabela de fatos** central conectada 
 - Escritório: `$60.486,26` (45%)
 - Tecnologia: `$39.736,62` (30%)
 - Móveis: `$35.018,99` (26%)
+
+![image](https://github.com/user-attachments/assets/5d59c4ea-6d53-47e0-9b28-e612e00ca48f)
+
 
 **Insights:**
 
@@ -133,12 +139,17 @@ O modelo estrela organiza os dados em uma **tabela de fatos** central conectada 
 - Copiadoras: 42,60%
 - Grampos: 35,56%
 
+![image](https://github.com/user-attachments/assets/e6b48417-b624-4440-8637-1e8645527f00)
+
 **Margens Negativas:**
 
 - Mesas: -13,77%
 - Máquinas: -6,59%
 - Suprimentos: -5,95%
 - Estantes: -1,94%
+
+![image](https://github.com/user-attachments/assets/b56bf289-5f70-4a97-9464-d8823e8dd4a0)
+
 
 **Insights:**
 
@@ -203,8 +214,7 @@ O modelo estrela organiza os dados em uma **tabela de fatos** central conectada 
 
 ---
 
-**Projeto disponível em:**  
-> [Repositório GitHub](#) _(insira o link do seu repositório aqui)_
+
 
 
 
