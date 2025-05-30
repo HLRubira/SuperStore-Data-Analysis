@@ -6,7 +6,7 @@ Ao lidarmos com grandes volumes de informações transacionais, como pedidos de 
 
 O modelo de dados da **SuperStore** é um exemplo clássico utilizado em análises de BI. Ele organiza os dados de vendas de uma empresa que comercializa produtos em diversos segmentos e regiões. A estrutura facilita consultas analíticas sobre vendas, lucros, desempenho por cliente, produto, região, entre outros.
 
-## 🧩 Modelo Estrela
+## Modelo Estrela
 
 O modelo estrela organiza os dados em uma **tabela de fatos** central conectada a várias **tabelas de dimensão**. A tabela de fatos armazena os dados quantitativos (**medidas**), enquanto as dimensões fornecem o **contexto** dessas medidas.
 
@@ -75,7 +75,7 @@ O modelo estrela organiza os dados em uma **tabela de fatos** central conectada 
 
 ---
 
-## ✅ Benefícios da Modelagem Estrela
+## Benefícios da Modelagem Estrela
 
 - **Facilidade de Consulta:** JOINs simples e rápidos.
 - **Desempenho:** Ideal para agregações em grandes volumes.
@@ -88,7 +88,7 @@ O modelo estrela organiza os dados em uma **tabela de fatos** central conectada 
 
 ---
 
-## 📊 Análise Completa do Dashboard de Vendas, Lucros e Margens
+## Análise Completa do Dashboard de Vendas, Lucros e Margens
 
 ### 🔹 1. Vendas Totais por Categoria
 
@@ -119,7 +119,7 @@ O modelo estrela organiza os dados em uma **tabela de fatos** central conectada 
 - Escritório é o mais lucrativo mesmo com menos vendas.
 - Móveis tem maior venda, mas menor lucro → possíveis margens baixas.
 
-✅ **Ação recomendada:** Analisar custos na categoria Móveis.
+**Ação recomendada:** Analisar custos na categoria Móveis.
 
 ---
 
@@ -145,7 +145,7 @@ O modelo estrela organiza os dados em uma **tabela de fatos** central conectada 
 - Produtos simples têm margens altas.
 - Móveis e itens volumosos geram prejuízo.
 
-📌 **Ações:**
+**Ações:**
 
 - Expandir itens com alta margem.
 - Rever ou eliminar produtos com margens negativas.
@@ -167,7 +167,7 @@ O modelo estrela organiza os dados em uma **tabela de fatos** central conectada 
 
 - Equipamentos com alto valor unitário dominam o faturamento.
 
-📌 **Ação:** Estratégia comercial diferenciada (ex: atendimento e pós-venda personalizados).
+ **Ação:** Estratégia comercial diferenciada (ex: atendimento e pós-venda personalizados).
 
 ---
 
@@ -186,14 +186,14 @@ O modelo estrela organiza os dados em uma **tabela de fatos** central conectada 
 - Produtos com alto giro são baratos e de escritório.
 - Alto volume não significa alto faturamento.
 
-📌 **Ações:**
+**Ações:**
 
 - Garantir estoque contínuo desses produtos.
 - Explorar **assinaturas** e **combos mensais corporativos**.
 
 ---
 
-## 📌 Insights Estratégicos Finais
+## Insights Estratégicos Finais
 
 - Foco em **produtos de alta margem**.
 - Revisar produtos com **prejuízo unitário**.
@@ -203,7 +203,7 @@ O modelo estrela organiza os dados em uma **tabela de fatos** central conectada 
 
 ---
 
-📁 **Projeto disponível em:**  
+**Projeto disponível em:**  
 > [Repositório GitHub](#) _(insira o link do seu repositório aqui)_
 
 
